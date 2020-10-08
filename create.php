@@ -1,9 +1,4 @@
 <?php
-//Connect In DB
-$servername = "localhost";
-$username = "admin_CXuri";
-$password = "Vansh@3211";
-
 // Create connection
 $conn = new mysqli("localhost","admin_CXURI","","admin_CXURI");
 
